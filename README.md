@@ -1,5 +1,6 @@
 # ModOrganizerSupportPlugins
 ============================================================================
+
 [RU]
 Написанные мною плагины для некоторых игр в Мод Органайзер 2
 
@@ -15,9 +16,11 @@ ModOrganizer2\plugins\basic_games\games
 2.Star Wars: Knight Of The Old Republic 2 The Sith Lords (KOTOR2)
 
 3.Baldurs Gate 3
+
 ============================================================================
 
 ============================================================================
+
 [EN]
 Plugins I wrote for some games in Mod Organizer 2
 
@@ -33,4 +36,5 @@ Current list of supported games:
 2.Star Wars: Knight Of The Old Republic 2 The Sith Lords (KOTOR2)
 
 3.Baldurs Gate 3
+
 ============================================================================
