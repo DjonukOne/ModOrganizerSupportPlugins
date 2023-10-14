@@ -1,4 +1,4 @@
-# ModOrganizerSupportPlugins
+# ModOrganizer2SupportPlugins
 ============================================================================
 
 [RU]
